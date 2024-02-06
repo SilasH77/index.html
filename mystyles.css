@@ -73,7 +73,7 @@ main ul { list-style-position: inside; }
 header, nav, main, footer { display: block; }
 
 body {
-  height: 100vh;
+  height: 20vh;
   display: flex;
   float:right;
   justify-content: center;
@@ -85,7 +85,7 @@ body {
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(2, 1fr);
   width: 60%;
-  height: 100px;
+  height: 20px;
   background: darkcyan;
 }
 
