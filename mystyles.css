@@ -78,16 +78,19 @@ header, nav, main, footer { display: block; }
 .row {
   display: flex;
   flex-wrap: wrap;
+  float: right;
   padding: 0 4px;
 }
 
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
+  float: right;
   padding: 0 4px;
 }
 
 .column img {
   margin-top: 8px;
+  float: right;
   vertical-align: middle;
 }
