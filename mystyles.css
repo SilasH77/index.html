@@ -85,14 +85,13 @@ body {
   display: grid;
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(2, 1fr);
-  width: 60%;
-  height: 100px;
+  height: 400px;
   background: darkcyan;
 }
 
 .img {
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   border: 1px solid red;
 }
 
