@@ -89,12 +89,14 @@ header, nav, main, footer { display: block; }
   flex: 50%;
   float: right;
   padding: 0 4px;
+  top: -50px;
   position: relative
 }
 
 .column img {
   margin-top: 8px;
   float: right;
+  top: -50px;    
   vertical-align: middle;
   position: relative
 }
