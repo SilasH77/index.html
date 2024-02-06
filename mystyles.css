@@ -80,7 +80,7 @@ header, nav, main, footer { display: block; }
   flex-wrap: wrap;
   float: right;
   padding: 0 4px;
-  top: -100px;
+  top: -150px;
   position: relative
 }
 
@@ -89,14 +89,14 @@ header, nav, main, footer { display: block; }
   flex: 50%;
   float: right;
   padding: 0 4px;
-  top: -100px;
+  top: -150px;
   position: relative
 }
 
 .column img {
   margin-top: 8px;
   float: right;
-  top: -100px;    
+  top: -150px;    
   vertical-align: middle;
   position: relative
 }
