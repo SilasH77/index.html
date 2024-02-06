@@ -79,7 +79,7 @@ header, nav, main, footer { display: block; }
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(2, 1fr);
   margin: auto;
-  width: 50%;
+  width: 30%;
   border: 3px solid green;
   padding: 10px;
   background: darkcyan;
