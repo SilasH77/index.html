@@ -75,6 +75,7 @@ header, nav, main, footer { display: block; }
 body {
   height: 100vh;
   display: flex;
+  float:right;
   justify-content: center;
   align-items: center;
 }
