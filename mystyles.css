@@ -72,13 +72,7 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 header, nav, main, footer { display: block; }
 
-body_img {
-  height: 300vh;
-  display: flex;
-  float:right;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .container {
   display: grid;
