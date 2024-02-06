@@ -71,3 +71,18 @@ main img { float: left;
 main ul { list-style-position: inside; }
 .clear { clear: both; }
 header, nav, main, footer { display: block; }
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
