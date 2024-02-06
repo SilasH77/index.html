@@ -80,6 +80,7 @@ header, nav, main, footer { display: block; }
   flex-wrap: wrap;
   float: right;
   padding: 0 4px;
+  position: relative
 }
 
 /* Create two equal columns that sits next to each other */
@@ -87,10 +88,12 @@ header, nav, main, footer { display: block; }
   flex: 50%;
   float: right;
   padding: 0 4px;
+  position: relative
 }
 
 .column img {
   margin-top: 8px;
   float: right;
   vertical-align: middle;
+  position: relative
 }
