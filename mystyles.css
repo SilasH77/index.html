@@ -72,7 +72,7 @@ main ul { list-style-position: inside; }
 .clear { clear: both; }
 header, nav, main, footer { display: block; }
 
-body {
+body_img {
   height: 300vh;
   display: flex;
   float:right;
