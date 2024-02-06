@@ -86,13 +86,13 @@ body {
   grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(2, 1fr);
   width: 60%;
-  height: 400px;
+  height: 40px;
   background: darkcyan;
 }
 
 .img {
-  width: 100%;
-  height: 100%;
+  width: 10px;
+  height: 10px;
   border: 1px solid red;
 }
 
